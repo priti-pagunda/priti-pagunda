@@ -74,10 +74,12 @@ I’m working towards becoming a **Cloud & DevOps Engineer**, with a focus on bu
 ---
 ## 🚀 Languages & Tools
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=aws,gcp,linux,python,bash,git,github,docker,kubernetes,Java script" />
-</p>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/aws/aws-original.svg" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="40"/>
 
+---
 ## Connect with Me
 
 🔗 LinkedIn: https://www.linkedin.com/in/priti-pagunda-701487224?utm_source=share_via&utm_content=profile&utm_medium=member_android
