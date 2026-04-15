@@ -1,4 +1,4 @@
-# 👋 Hello, I'm Priti
+ # 👋 Hello, I'm Priti
 
 🎓 Master’s Student | Aspiring Cloud & DevOps Engineer | AWS | DevOps
 
@@ -43,7 +43,7 @@ Object-Oriented Programming (OOP) | Data Structures & Algorithms (Basics) | API 
 
 ---
 
-## 🚀 Featured Projects
+## Featured Projects
 
 🔹 **AWS 3-Tier Architecture with Auto Scaling**
 
@@ -67,13 +67,13 @@ Data processing and prediction logic
 
 ---
 
-## 🎯 Where I'm Heading
+## Where I'm Heading
 
 I’m working towards becoming a **Cloud & DevOps Engineer**, with a focus on building scalable, reliable, and efficient systems.
 
 ---
 
-## 📫 Get in Touch
+## Connect with Me
 
 🔗 LinkedIn: https://www.linkedin.com/in/priti-pagunda-701487224?utm_source=share_via&utm_content=profile&utm_medium=member_android
 
