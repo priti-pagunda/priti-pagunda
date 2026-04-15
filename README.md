@@ -72,6 +72,11 @@ Data processing and prediction logic
 I’m working towards becoming a **Cloud & DevOps Engineer**, with a focus on building scalable, reliable, and efficient systems.
 
 ---
+## 🚀 Languages & Tools
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=aws,gcp,linux,python,bash,git,github,docker,kubernetes,Java script" />
+</p>
 
 ## Connect with Me
 
