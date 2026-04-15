@@ -74,10 +74,9 @@ I’m working towards becoming a **Cloud & DevOps Engineer**, with a focus on bu
 ---
 ## 🚀 Languages & Tools
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/aws/aws-original.svg" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="40"/>
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=aws,gcp,linux,python,bash,git,github,docker,kubernetes" />
+</p>
 
 ---
 ## Connect with Me
